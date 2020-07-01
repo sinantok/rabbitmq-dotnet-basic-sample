@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/RabbitMQSample/v16/Server/sqlite3
+/.vs/RabbitMQSample/v16/.suo
+/RabbitMQSample/.vs/RabbitMQSample/DesignTimeBuild/.dtbcache
+/RabbitMQSample/.vs/RabbitMQSample/v16/Server/sqlite3/storage.ide
+/RabbitMQSample/.vs/RabbitMQSample/v16/Server/sqlite3/db.lock
+/RabbitMQSample/.vs/RabbitMQSample/v16/.suo
+/RabbitMQSample/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll
+/RabbitMQSample/bin/Debug/netcoreapp3.1/System.Threading.Channels.dll
+/RabbitMQSample/obj/Debug/netcoreapp3.1
+/RabbitMQSample/obj
