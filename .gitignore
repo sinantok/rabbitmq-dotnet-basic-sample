@@ -12,3 +12,10 @@
 /RabbitMQSample/bin/Debug/netcoreapp3.1/System.Threading.Channels.dll
 /RabbitMQSample/obj/Debug/netcoreapp3.1
 /RabbitMQSample/obj
+/RabbitMQSample/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/RabbitMQSample/bin/Debug/netcoreapp3.1/RabbitMQSample.deps.json
+/RabbitMQSample/bin/Debug/netcoreapp3.1/RabbitMQSample.dll
+/RabbitMQSample/bin/Debug/netcoreapp3.1/RabbitMQSample.pdb
+/RabbitMQSample/bin/Debug/netcoreapp3.1/RabbitMQSample.exe
+/RabbitMQSample/bin/Debug/netcoreapp3.1/RabbitMQSample.runtimeconfig.dev.json
+/RabbitMQSample/bin/Debug/netcoreapp3.1/RabbitMQSample.runtimeconfig.json
