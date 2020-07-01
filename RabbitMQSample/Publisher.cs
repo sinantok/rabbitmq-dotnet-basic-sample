@@ -13,9 +13,9 @@ namespace RabbitMQSample
         public Publisher(string queueName, IList<Person> persons)
         {
             _rabbitMQService = new RabbitMQService();
-            using (var connection = _rabbitMQService.GetRabbitMQConnection())
+            using (IConnection connection = _rabbitMQService.GetRabbitMQConnection())
             {
-                using (var channel = connection.CreateModel())
+                using (IModel channel = connection.CreateModel())
                 {
                     channel.QueueDeclare(
                         queue: queueName,
